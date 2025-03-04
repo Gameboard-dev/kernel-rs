@@ -4,7 +4,7 @@ A high-performance image processing tool in Rust that applies **blurring** and *
 https://www.youtube.com/watch?v=C_zFhWdM4ic
 
 ## 🚀 Features
-- 📂 **File Detection**: Finds `.jpg` images inside the `input/` folder.
+- 📂 **File Detection**: Finds `.jpg` images inside the `images/` folder.
 - ⚡ **Parallel Processing**: Uses `rayon` for speedy image processing.
 - 🎨 **Supports Blur & Sharpening**:
   - 🔹 **Blurring**: Customizable blur strength (3x3, 5x5, etc.).
